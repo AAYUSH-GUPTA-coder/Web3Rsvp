@@ -9,7 +9,7 @@ import Layout from "../components/Layout";
 import "../styles/globals.css";
 
 const infuraId = process.env.NEXT_PUBLIC_INFURA_ID;
-
+console.log(infuraId);
 const { chains, provider } = configureChains(
   [chain.polygon],
   [infuraProvider({ infuraId }), publicProvider()]

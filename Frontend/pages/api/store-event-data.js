@@ -1,6 +1,10 @@
 import { Web3Storage, File, getFilesFromPath } from "web3.storage";
 const { resolve } = require("path");
 
+
+const value = process.env.NEXT_PUBLIC_WEB3STORAGE_TOKEN;
+console.log(value);
+
 export default async function handler(req, res) {
   if (req.method === "POST") {
     return await storeEventData(req, res);
@@ -42,5 +46,6 @@ async function makeFileObjects(body) {
 }
 
 function makeStorageClient() {
-  return new Web3Storage({ token: process.env.WEB3STORAGE_TOKEN });
+  return new Web3Storage({ token: process.env.NEXT_PUBLIC_WEB3STORAGE_TOKEN });
 }
+
