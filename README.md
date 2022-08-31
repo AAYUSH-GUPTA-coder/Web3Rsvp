@@ -12,3 +12,12 @@ So in addition to just RSVP to existing events platform will also allow people t
 ![create-event](https://user-images.githubusercontent.com/60979345/187668557-0652a9d3-81b6-405f-a6e2-5828e1f5a110.png)
 
 We should be able to go to our home profile and see all of the events that we have created and all of our RSVPs.
+
+Also we have RSVPs to upcoming and past events
+
+![RSVP](https://user-images.githubusercontent.com/60979345/187669168-fabdb77c-51ff-43eb-921b-e73a45800794.png)
+
+This tab is for events that this specific user has created
+
+![my-events](https://user-images.githubusercontent.com/60979345/187669585-2f88b97d-c24b-41d9-ae45-b6596b1afd7e.png)
+
