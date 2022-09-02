@@ -1,6 +1,6 @@
 # Web3Rsvp
 Web3RSVP is an event platform where creators can create events and people can go onto this platform and find cool events and RSVP to them. 
-Here we'll have a dashboard where you see all the events and you can click on one and you'll be able to RSVP what makes this platform different than what's out there.
+Here we'll have a dashboard where you see all the events and you can click on one and you'll be able to RSVP what makes this platform different than what's out there
 
 ![dashboard](https://user-images.githubusercontent.com/60979345/187667993-13922019-7901-40f6-b150-4c293b4be698.png)
 
